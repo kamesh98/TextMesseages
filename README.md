@@ -1,5 +1,5 @@
-# TextMesseages
-Repositry Contains code to automate the process of sending text messages by supling the number and the text as a argument to the program
+# TextMessages
+Repositry Contains code to automate the process of sending text messages through python by supling the number and the message as a argument to the program. 
 
 ## Pre-requisites
 * python 2.7

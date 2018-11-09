@@ -7,6 +7,8 @@ Account in the messaging portal way2sms `http://www.way2sms.com/`
 
 ### Library required
 urllib3
+
+## Process
 * Clone the repository from the master branch
 `https://github.com/kamesh98/TextMesseages.git`
 
@@ -16,7 +18,7 @@ urllib3
 
 ## Running the script
 
-# To run the script
+### To run the script
 
 command python text.py --number --message
 

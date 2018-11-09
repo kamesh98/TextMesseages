@@ -6,7 +6,7 @@ Repositry Contains code to automate the process of sending text messages by supl
 * Account in the messaging portal way2sms `http://www.way2sms.com/`
 
 ### Library required
-urllib3
+* urllib3
 
 ## Process
 * Clone the repository from the master branch

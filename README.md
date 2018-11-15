@@ -2,7 +2,7 @@
 Repositry Contains code to automate the process of sending text messages through python by supling the number and the message as a argument to the program. 
 
 ## Pre-requisites
-* python 2.7
+* python 3.6
 * Account in the messaging portal way2sms `http://www.way2sms.com/`
 
 ### Library required
@@ -20,6 +20,6 @@ Repositry Contains code to automate the process of sending text messages through
 
 ### To run the script
 
-command python text.py --number --message
+command `python text.py --message message --number number --user user --pass password` 
 
 The program connects to the way2sms and automates the text message that has to be sent

@@ -17,7 +17,6 @@ def collect():
     username = data.user
     passwd = data.paswd
     numbers = number.split(',')
-    print(numbers)
     return username,passwd,numbers,message
 
 
